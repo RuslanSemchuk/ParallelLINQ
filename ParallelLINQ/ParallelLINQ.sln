@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelLINQ", "ParallelLINQ.csproj", "{7FA1DF00-A544-4DE4-AB20-C1C91019AF83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FA1DF00-A544-4DE4-AB20-C1C91019AF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA1DF00-A544-4DE4-AB20-C1C91019AF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA1DF00-A544-4DE4-AB20-C1C91019AF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA1DF00-A544-4DE4-AB20-C1C91019AF83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C5F316E-E1C3-4E89-B94A-2E1B9947A0A3}
+	EndGlobalSection
+EndGlobal
